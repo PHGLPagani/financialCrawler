@@ -16,4 +16,4 @@ The code can handle any index, but large indeces will take a long time - stick t
 https://fknol.com/
 
 
-Disclairmer: FKnol will soon require log in to access the website, this means the code will need to be updated, this is currently underway.
+Disclairmer: FKnol will soon require log in to access the website, this means the code will need to be updated - this is currently underway.
