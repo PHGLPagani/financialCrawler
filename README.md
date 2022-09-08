@@ -2,7 +2,7 @@
 A web crawler that collects financial data from three different websites and automatically performs technical analysis.
 
 
-*Currently crawling with RegEx - BeautifulSoup in development.
+*Currently crawling with RegEx.
 
 
 For full description of project follow this PDF:
